@@ -1,0 +1,21 @@
+{
+  "name": "ha-lovelace-taste",
+  "version": "1.0.0",
+  "description": "Build Home Assistant dashboard cards, editors, badges and dialogs that look and behave like native Home Assistant UI: design tokens, card API, light and dark themes, languages, accessibility, verification and distribution.",
+  "author": {
+    "name": "Fabio Scarparo",
+    "url": "https://github.com/fabioscarparo"
+  },
+  "homepage": "https://github.com/fabioscarparo/home-assistant-lovelace-taste-skill",
+  "repository": "https://github.com/fabioscarparo/home-assistant-lovelace-taste-skill",
+  "license": "MIT",
+  "keywords": [
+    "home-assistant",
+    "lovelace",
+    "dashboard",
+    "custom-card",
+    "hacs",
+    "web-components",
+    "design-system"
+  ]
+}

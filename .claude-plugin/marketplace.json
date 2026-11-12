@@ -1,0 +1,23 @@
+{
+  "name": "ha-lovelace-taste",
+  "owner": {
+    "name": "Fabio Scarparo",
+    "url": "https://github.com/fabioscarparo"
+  },
+  "description": "A skill for building Home Assistant dashboard cards that feel native, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "ha-lovelace-taste",
+      "source": "./",
+      "description": "Build Home Assistant dashboard cards, editors, badges and dialogs that look and behave like native Home Assistant UI.",
+      "category": "development",
+      "keywords": [
+        "home-assistant",
+        "lovelace",
+        "dashboard",
+        "custom-card",
+        "hacs"
+      ]
+    }
+  ]
+}
